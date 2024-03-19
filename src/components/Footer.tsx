@@ -8,13 +8,13 @@ const Footer = () => {
       <div className="container">
         <div className="row justify-content-center align-items-center">
           <div className="col-lg-auto">
-            <Link legacyBehavior href="https://github.com/bdmaldonado/personal-website" passHref>
+            <Link legacyBehavior target="_blank" href="https://github.com/bdmaldonado/personal-website" passHref>
               <a className="text-light me-3"><FaGithub /></a>
             </Link>
-            <Link legacyBehavior href="https://www.linkedin.com/in/bdmaldonado/" passHref>
+            <Link legacyBehavior target="_blank" href="https://www.linkedin.com/in/bdmaldonado/" passHref>
               <a className="text-light me-3"><FaLinkedin /></a>
             </Link>
-            <Link legacyBehavior href="mailto:benjamindmaldonado@gmail.com" passHref>
+            <Link legacyBehavior target="_blank" href="mailto:benjamindmaldonado@gmail.com" passHref>
               <a className="text-light"><MdEmail /></a>
             </Link>
           </div>
