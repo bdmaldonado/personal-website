@@ -86,7 +86,7 @@ table th {
 }
 
 .role {
-  transition: transform 1s ease-in-out;
+  transition: transform 1.2s ease-in-out;
   max-width: 800px; 
   margin-bottom: 50px;
 }
