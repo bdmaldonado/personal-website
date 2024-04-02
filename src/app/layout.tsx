@@ -11,6 +11,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+     <head>
+        <title>Ben Maldonado&apos;s Site</title>
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+      </head>
       <body>
 	<Header />
         <main>{children}</main>

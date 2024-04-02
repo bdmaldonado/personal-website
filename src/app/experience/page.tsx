@@ -23,9 +23,8 @@ Designed a parallel load testing system and collected comparative metrics on Ama
         <p>Sep 2019 - May 2023 | Oxford, Ohio, United States</p>
         <p>Learned and applied research and machine learning techniques through multiple labs...</p>
 	<ol>
-	   <li><b>Dr. Leonard Smart`&apos;`s Motion Sickness Lab</b>, where I applied my computer science knowledge to translate pseudocode for motion sickness reduction software</li>
-	   <li><b>Dr. Robin Thomas`&apos;` Cognitive Neuroscience Lab</b>, where I utilized machine learning models to find relative statistical contributions of various EEG signals to a patient`&apos;`s recognition of Gabor patches.</li>
-	   <li><b>Dr. Giabbanelli`&apos;`s Network Science Lab</b>, where I applied network science and statistical research techniques to research methods for reducing adolescent suicide through Causal Mapping and simulation modeling in conjunction with experts at the CDC</li>
+	   <li><b>Dr. Robin Thomas&apos; Cognitive Neuroscience Lab</b>, where I utilized machine learning models to find relative statistical contributions of various EEG signals to a patient&apos;s recognition of Gabor patches.</li>
+	   <li><b>Dr. Philippe Giabbanelli&apos;s Network Science Lab</b>, where I applied network science and statistical research techniques to research methods for reducing adolescent suicide through Causal Mapping and simulation modeling in conjunction with experts at the CDC</li>
 	</ol>
         <p>Skills: Machine Learning, Network Science, Statistics, Report Writing, Technical Writing, Research Skills</p>
       </div>
