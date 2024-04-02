@@ -22,11 +22,11 @@ const Header = () => {
                   <a className="nav-link">Projects</a>
                 </Link>
               </li>
-	      <li className="nav-item">
-		<Link legacyBehavior href="/awards" passHref>
-		  <a className="nav-link">Awards and Honors</a>
-		</Link>
-	      </li>
+	            <li className="nav-item">
+                <Link legacyBehavior href="/awards" passHref>
+                  <a className="nav-link">Awards and Honors</a>
+                </Link>
+	             </li>
             </ul>
           </div>
         </div>

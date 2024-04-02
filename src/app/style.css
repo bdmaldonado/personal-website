@@ -52,3 +52,28 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+/* Table styles */
+table td, table th {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+
+table tr {
+  align-content: center;
+}
+
+table th {
+  padding-right: 20px;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #C4C4C4;
+}
+
