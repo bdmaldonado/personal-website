@@ -26,7 +26,7 @@ const ExperiencePage = () => {
     <div className="roles">
       <h2>Roles</h2>
       <div className="role">
-        <h3>Software Engineer Intern at Amazon</h3>
+        <h3>Software Engineer Intern at Amazon Web Services</h3>
         <p>May 2023 - Aug 2023 | New York, New York, United States</p>
         <p><b>Project:</b> Key Performance Indicator (KPI) Anomaly Observer</p>
         <p>
@@ -71,7 +71,7 @@ const ExperiencePage = () => {
         </p>
       </div>
       <div className="role">
-        <h3>Software Engineer Intern at Amazon.com</h3>
+        <h3>Software Engineer Intern at Amazon Web Services</h3>
         <p>May 2022 - Aug 2022 | New York, New York, United States</p>
         <p><b>Project:</b> Deep Learning Model Serving and Load-Testing</p>
         <p>
@@ -124,7 +124,7 @@ const ExperiencePage = () => {
         </p>
       </div>
       <div className="role">
-        <h3>Software Engineer Intern at Amazon.com</h3>
+        <h3>Software Engineer Intern at Amazon Web Services</h3>
         <p>May 2021 - Aug 2021 | Seattle, Washington, United States</p>
         <p><b>Project:</b> Centralized Alarm Management System</p>
         <p>
