@@ -221,7 +221,7 @@ const ExperiencePage = () => {
             <li>Communicated research findings in a final report.</li>
             <li><b>Skills: </b>Research, Machine Learning, Simulations, Python (Numpy, Cython, SciKit-Learn, SciKit-Image), High Perfomance Computing (HPC) Cluster</li>
             <li><b>Unpublished Paper:</b><br />
-            <i>&quot;Predicting HIV Viral Body Load through Image Analysis&quot;</i><br />
+            <a href="/assets/predicting-viral-loads-paper.pdf" download><i>&quot;Predicting HIV Viral Body Load through Image Analysis&quot;</i></a><br />
             J. Li, <b>B. D. Maldonado</b>, G. Skidmore, Z. Xu, D. Calovini
             </li>
           </ul>
