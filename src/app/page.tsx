@@ -53,7 +53,7 @@ const IndexPage = () => {
           (both indoor and outdoor), reading, watching movies, cooking, and
           playing games of all forms.
         </p>
-        <div>
+        {/* <div>
           <Slider {...settings}>
             <div>
               <Image
@@ -110,7 +110,7 @@ const IndexPage = () => {
               />
             </div>
           </Slider>
-        </div>
+        </div> */}
         <h2>About this site</h2>
         <p>
           This site uses a few fun pieces of technology. First, it uses an EC2
